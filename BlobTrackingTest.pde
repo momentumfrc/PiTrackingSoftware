@@ -1,4 +1,9 @@
 /**
+ * !!! INSTALL THESE PACKAGES TO USE THE VIDEO LIBRARY !!!
+ * 
+ * $ sudo apt install gstreamer1.0-plugins-good
+ * $ sudo apt install gstreamer0.10-plugins*
+ *
  * @author Fabio Colacio & Nate McConnell
  *
  * This  code looks for the color white in an image, and draws rectangles
