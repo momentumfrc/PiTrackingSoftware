@@ -3,6 +3,7 @@
  * 
  * $ sudo apt install gstreamer1.0-plugins-good
  * $ sudo apt install gstreamer0.10-plugins*
+ * $ sudo apt install uvcdynctrl
  *
  * @author Fabio Colacio & Nate McConnell
  *
